@@ -1,8 +1,8 @@
 from webhook import webhook
-import weather, config
+from config import Config
+import weather
 
-
-wh = webhook(URL=config.WebhookURL())
+wh = webhook(URL=Config['WebHook_URL'])
 
 embeded_clima = {
     "content": "",
