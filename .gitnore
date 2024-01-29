@@ -1,0 +1,12 @@
+# Arquivos temporários
+*.pyc
+*.pyo
+__pycache__/
+
+
+# Arquivo de configuração
+config.json
+
+# Arquivos gerados por IDEs/editores
+.idea/
+.vscode/

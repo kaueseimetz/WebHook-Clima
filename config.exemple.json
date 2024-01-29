@@ -1,0 +1,4 @@
+{
+    "WeatherAPI_Key": "your weather key (get in https://advisor.climatempo.com.br/home/#!/tokens)",
+    "WebHook_URL": "your webhook key"
+}
